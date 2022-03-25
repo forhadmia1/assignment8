@@ -1,0 +1,74 @@
+[
+    {
+      "id": "1",
+      "price": "$3,919.85",
+      "picture": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1208225827.1645022951",
+      "name": "Viola Montoya"
+    },
+    {
+      "id": "2",
+      "price": "$2,768.74",
+      "picture": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1208225827.1645022951",
+      "name": "Stephanie Clements"
+    },
+    {
+      "id": "3",
+      "price": "$1,596.33",
+      "picture": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1208225827.1645022951",
+      "name": "Cross Deleon"
+    },
+    {
+      "id": "4",
+      "price": "$3,395.81",
+      "picture": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1208225827.1645022951",
+      "name": "Evelyn Neal"
+    },
+    {
+      "id": "5",
+      "price": "$2,349.65",
+      "picture": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1208225827.1645022951",
+      "name": "Henson Mejia"
+    },
+    {
+      "id": "6",
+      "price": "$2,658.74",
+      "picture": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1208225827.1645022951",
+      "name": "Katina Brock"
+    },
+    {
+      "id": "7",
+      "price": "$1,630.00",
+      "picture": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1208225827.1645022951",
+      "name": "Enid Smith"
+    },
+    {
+      "id": "8",
+      "price": "$1,630.00",
+      "picture": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1208225827.1645022951",
+      "name": "Enid Smith"
+    },
+    {
+      "id": "9",
+      "price": "$1,630.00",
+      "picture": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1208225827.1645022951",
+      "name": "Enid Smith"
+    },
+    {
+      "id": "10",
+      "price": "$1,630.00",
+      "picture": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1208225827.1645022951",
+      "name": "Enid Smith"
+    },
+    {
+      "id": "11",
+      "price": "$1,630.00",
+      "picture": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1208225827.1645022951",
+      "name": "Enid Smith"
+    },
+    {
+      "id": "12",
+      "price": "$1,630.00",
+      "picture": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1208225827.1645022951",
+      "name": "Enid Smith"
+    }
+  ]
