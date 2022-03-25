@@ -1,0 +1,26 @@
+.card{
+    box-shadow: 5px 5px 10px rgba(47, 54, 64,0.3);
+    border-radius: 10px;
+    background-color: #dcdde1;
+}
+.card-image{
+    padding: 10px;
+}
+.card-image img{
+    width: 100%;
+    border-radius: 5px;
+}
+.card-info{
+    padding: 0 10px;
+}
+.card-btn{
+    width: 100%;
+    border: 0;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: rgba(39, 60, 117,1.0);
+    color: white;
+    padding: 10px 0;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}

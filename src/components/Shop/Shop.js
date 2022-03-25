@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import Product from '../Product/Product';
 import './Shop.css'
 
 const Shop = () => {
@@ -11,10 +12,21 @@ const Shop = () => {
     return (
         <div className='shop-container'>
             <div className='Product-container'>
-                
+                {
+                    products.map(product=> <Product key={product.id} product={product}></Product>)
+                }
             </div>
-            <div className='cart-container'>
-                gello
+            <div>
+                <div className="cart-container">
+                    <h2>Selected Item</h2>
+                    <div>
+
+                    </div>
+                    <button className='cart-btn'>Choose 1 for me</button>
+                    <br />
+                    <button className='cart-btn'>Choose again</button>
+
+                </div>
             </div>
         </div>
     );
