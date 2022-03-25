@@ -25,3 +25,14 @@
     font-weight: bold;
     margin-top: 10px;
 }
+
+/* responsive */
+@media only screen and (max-width:600px) {
+    .shop-container{
+        grid-template-columns: 1fr;
+    }
+    .Product-container{
+        grid-template-columns: 1fr;
+        margin-top: 100px;
+    }
+}
