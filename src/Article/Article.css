@@ -1,3 +1,7 @@
+.top-blog-container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
 .blog-container{
     padding:0 30px;
 }
@@ -15,6 +19,9 @@
 
 @media only screen and (max-width:600px){
     .blog{
+        grid-template-columns: 1fr;
+    }
+    .top-blog-container{
         grid-template-columns: 1fr;
     }
     
