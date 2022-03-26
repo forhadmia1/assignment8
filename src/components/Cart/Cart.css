@@ -1,5 +1,7 @@
 .cart-item{
     display: flex;
+    justify-content: space-between;
+    align-items: center;
     margin-top: 10px;
 }
 .cart-item img{
@@ -7,4 +9,15 @@
     height: 70px;
     border-radius: 5px;
     margin-right: 10px;
+}
+.cart-info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.delete-btn{
+    border: none;
+    margin-left: 10px;
+    font-size: 20px;
+    cursor: pointer;
 }

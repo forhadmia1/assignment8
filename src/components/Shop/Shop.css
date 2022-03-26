@@ -17,7 +17,6 @@
     margin-top: 40px;
     padding: 10px;
     border-radius: 10px;
-    box-shadow: 5px 5px 10px rgba(47, 54, 64,0.3);
 }
 .cart-btn{
     border: 2px solid #273c75;
@@ -55,5 +54,8 @@
     .Product-container{
         grid-template-columns: 1fr;
         margin-top: 100px;
+    }
+    .cart-container{
+        margin: 0 5px;
     }
 }

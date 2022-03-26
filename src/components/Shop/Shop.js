@@ -29,7 +29,14 @@ const Shop = () => {
 // handle choose again btn
     const resetCart=()=>{
         setSaveItem([])
+        document.querySelector('.selected-container').style.display='none';
     }
+//handle delete item btn from cart
+    const deleteItem=(id)=>{
+        const remaining= saveItem.filter(item=> item.id!== id);
+        setSaveItem(remaining)
+    }
+
 //handle choose one btn
     const [selectedItem,setSelectedItem]= useState({});
     const chooseOne=()=>{
@@ -53,7 +60,7 @@ const Shop = () => {
                     <h2>Selected Cars</h2>
                     <div>
                         {
-                            saveItem.map(item=><Cart key={item.id} item={item}></Cart>)
+                            saveItem.map(item=><Cart key={item.id} item={item} deleteItem={deleteItem}></Cart>)
                         }
                     </div>
                     <button onClick={chooseOne} className='cart-btn'>Choose 1 for me</button>
