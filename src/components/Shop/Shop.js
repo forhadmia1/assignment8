@@ -6,6 +6,7 @@ import './Shop.css'
 const Shop = () => {
     const [products,setProducts]= useState([])
     const [saveItem,setSaveItem] = useState([])
+    const [display,setDisplay] = useState({display:'none'})
 // fetch data from file
     useEffect(()=>{
         fetch('products.json')
@@ -29,7 +30,7 @@ const Shop = () => {
 // handle choose again btn
     const resetCart=()=>{
         setSaveItem([])
-        document.querySelector('.selected-container').style.display='none';
+        setDisplay({display:'none'})
     }
 //handle delete item btn from cart
     const deleteItem=(id)=>{
@@ -43,7 +44,7 @@ const Shop = () => {
         if(saveItem.length>0){
             const randomNum= Math.floor(Math.random()*saveItem.length);
             setSelectedItem(saveItem[randomNum]);
-            document.querySelector('.selected-container').style.display='block';
+            setDisplay({display:'block'})
         }
     }
     
@@ -69,7 +70,7 @@ const Shop = () => {
                 </div>
                 <div className='chooseOne-container'>
                     <h2>Choose for you</h2>
-                    <div className="selected-container">
+                    <div className="selected-container" style={display}>
                         <div className='selected-item'>
                             <img src={selectedItem?.picture} alt="" />
                             <h3>{selectedItem?.name}</h3>
