@@ -1,5 +1,5 @@
 import './App.css';
-import Article from './Article/Article';
+import Article from './components/Article/Article';
 import Header from './components/Header/Header';
 import Shop from './components/Shop/Shop';
 
