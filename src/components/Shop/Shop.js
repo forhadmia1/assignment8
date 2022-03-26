@@ -19,7 +19,7 @@ const Shop = () => {
             if(saveItem.length<4){
                 setSaveItem([...saveItem,product])
             }else{
-                alert('You already added 4 item!')
+                alert('You have already added 4 item!')
             }
         }else{
             alert('Already exist the item!')
@@ -33,9 +33,11 @@ const Shop = () => {
 //handle choose one btn
     const [selectedItem,setSelectedItem]= useState({});
     const chooseOne=()=>{
-        const randomNum= Math.floor(Math.random()*saveItem.length);
-        setSelectedItem(saveItem[randomNum]);
-        document.querySelector('.selected-container').style.display='block';
+        if(saveItem.length>0){
+            const randomNum= Math.floor(Math.random()*saveItem.length);
+            setSelectedItem(saveItem[randomNum]);
+            document.querySelector('.selected-container').style.display='block';
+        }
     }
     
 
@@ -48,7 +50,7 @@ const Shop = () => {
             </div>
             <div>
                 <div className="cart-container">
-                    <h2>Selected Headphones</h2>
+                    <h2>Selected Cars</h2>
                     <div>
                         {
                             saveItem.map(item=><Cart key={item.id} item={item}></Cart>)
@@ -59,7 +61,7 @@ const Shop = () => {
                     <button onClick={resetCart} className='cart-btn'>Choose again</button>
                 </div>
                 <div className='chooseOne-container'>
-                    <h2>Selected Item</h2>
+                    <h2>Choose for you</h2>
                     <div className="selected-container">
                         <div className='selected-item'>
                             <img src={selectedItem?.picture} alt="" />
