@@ -1,74 +1,74 @@
 [
     {
       "id": "1",
-      "price": "$3,919.85",
-      "picture": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1208225827.1645022951",
-      "name": "Viola Montoya"
+      "price": "$13.17 - 15.53 Lakh",
+      "picture": "https://images.unsplash.com/photo-1621993202323-f438eec934ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dG95b3RhJTIwZm9ydHVuZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "name": "Toyota Fortuner"
     },
     {
       "id": "2",
-      "price": "$2,768.74",
-      "picture": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1208225827.1645022951",
-      "name": "Stephanie Clements"
+      "price": "$13.18 - 18.14 Lakh",
+      "picture": "https://images.unsplash.com/photo-1626630336933-8646e97e3740?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fG1haGluZHJhJTIwc2NvcnBpb3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Mahindra Scorpio"
     },
     {
       "id": "3",
-      "price": "$1,596.33",
-      "picture": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1208225827.1645022951",
-      "name": "Cross Deleon"
+      "price": "$10.23 - 17.94 Lakh",
+      "picture": "https://images.unsplash.com/photo-1575764679431-6b1aa33f1560?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aHl1bmRhaSUyMGNyZXRhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Hyundai Creta"
     },
     {
       "id": "4",
-      "price": "$3,395.81",
-      "picture": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1208225827.1645022951",
-      "name": "Evelyn Neal"
+      "price": "$5.67 - 9.18 Lakh",
+      "picture": "https://images.unsplash.com/photo-1486496572940-2bb2341fdbdf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHRhdGElMjBwdW5jaCUyMGNhcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Tata Punch"
     },
     {
       "id": "5",
-      "price": "$2,349.65",
-      "picture": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1208225827.1645022951",
-      "name": "Henson Mejia"
+      "price": "$5.90 - 8.77 Lakh",
+      "picture": "https://images.unsplash.com/photo-1605270397189-b613ace3b4f3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFydXRpJTIwc3dpZnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "name": "Maruti Swift"
     },
     {
       "id": "6",
-      "price": "$2,658.74",
-      "picture": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1208225827.1645022951",
-      "name": "Katina Brock"
+      "price": "$s7.69 - 11.34 Lakh",
+      "picture": "https://images.unsplash.com/photo-1642345830428-612be5186aba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFydXRpJTIwdml0YXJhJTIwYnJlenphfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Maruti Vitara Brezza"
     },
     {
       "id": "7",
-      "price": "$1,630.00",
-      "picture": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1208225827.1645022951",
-      "name": "Enid Smith"
+      "price": "$8.12 - 10.85 Lakh",
+      "picture": "https://images.unsplash.com/photo-1642345810417-eecf7dda339b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWFydXRpJTIwZXJ0aWdhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Maruti Ertiga"
     },
     {
       "id": "8",
-      "price": "$1,630.00",
-      "picture": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1208225827.1645022951",
-      "name": "Enid Smith"
+      "price": "$9.95 - 18.19 Lakh",
+      "picture": "https://images.unsplash.com/photo-1635744179251-36f60e556bf4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8a2lhJTIwc2VsdG9zfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Kia Seltos"
     },
     {
       "id": "9",
-      "price": "$1,630.00",
-      "picture": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1208225827.1645022951",
-      "name": "Enid Smith"
+      "price": "$10.00 Lakh",
+      "picture": "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8dm9sa3N3YWdlbiUyMHZpcnR1c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Volkswagen Virtus"
     },
     {
       "id": "10",
-      "price": "$1,630.00",
-      "picture": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1208225827.1645022951",
-      "name": "Enid Smith"
+      "price": "$30.00 - 35.00 Lakh",
+      "picture": "https://images.unsplash.com/photo-1559416523-140ddc3d238c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dG95b3RhJTIwaGlsdXh8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "name": "Toyota Hilux"
     },
     {
       "id": "11",
-      "price": "$1,630.00",
-      "picture": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1208225827.1645022951",
-      "name": "Enid Smith"
+      "price": "$25.00 Lakh",
+      "picture": "https://images.unsplash.com/photo-1628066985934-0e1953425c22?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGtpYSUyMHNwb3J0YWdlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Kia Sportage"
     },
     {
       "id": "12",
-      "price": "$1,630.00",
-      "picture": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?size=626&ext=jpg&ga=GA1.2.1208225827.1645022951",
-      "name": "Enid Smith"
+      "price": "$60.00 Lakh",
+      "picture": "https://images.unsplash.com/photo-1585011664466-b7bbe92f34ef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dGVzbGElMjBtb2RlbCUyMDN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "name": "Tesla Model 3"
     }
   ]

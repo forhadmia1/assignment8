@@ -14,7 +14,17 @@ const Shop = () => {
     },[])
 // add to cart functionality
     const addToCart=(product)=>{
-        setSaveItem([...saveItem,product])
+        const exist= saveItem.find(item=>item.id===product.id);
+        if(!exist){
+            if(saveItem.length<4){
+                setSaveItem([...saveItem,product])
+            }else{
+                alert('You already added 4 item!')
+            }
+        }else{
+            alert('Already exist the item!')
+        }
+        
     }
 // handle choose again btn
     const resetCart=()=>{

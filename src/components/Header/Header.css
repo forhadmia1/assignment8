@@ -5,6 +5,8 @@
 .navbar h1{
     color: #fff;
     text-align: center;
+    font-size: 35px;
+    margin: 5px 0;
 }
 
 /* mobile responsive */
